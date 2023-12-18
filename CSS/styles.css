@@ -43,7 +43,7 @@ nav ul li{
 
 nav ul li a{
   justify-content: center;
-  color: black;
+  color: rgb(0, 204, 255);
   text-decoration: none;
   font-weight: bold;
   text-transform: capitalize;
